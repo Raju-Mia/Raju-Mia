@@ -3,7 +3,7 @@
 <br/>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raju Mia</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raju Mia <br> Software Engineer | Python Django Developer</h1>
 <i> <h3 align="center">Passionate Problem Solver & Tech Enthusiast.</h3> </i>
 
 
